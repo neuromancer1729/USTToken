@@ -34,7 +34,7 @@ const TokenSend = (props) => {
         </Card.Subtitle>
         <br></br>
         <div className="d-grid gap-2">
-        <input onChange={e => setUserAccount(e.target.value)} placeholder="Payee 0x address" />
+        <input onChange={e => setUserAccount(e.target.value)} placeholder="Payee address" />
         <input onChange={e => setAmount(e.target.value)} placeholder="Amount" />
         <Button onClick={sendCoins} variant="success">send </Button>
         </div>

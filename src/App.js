@@ -17,11 +17,9 @@ function App() {
     <Container>
     <Row className="justify-content-md-center">
       <Col>
-        <div>our faucet</div>
-        <Faucet  tokenContract={Token}/>
+        <Faucet tokenContract={Token}/>
       </Col>
       <Col>
-        <div> our send area</div>
         <TokenSend tokenContract={Token}/>
       </Col>
     </Row>
