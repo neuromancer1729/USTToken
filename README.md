@@ -15,5 +15,7 @@ npm run start
 
 Network : Goerli
 
-[goerli.etherscan.io/token/0xa82f21f033c1a30e8c729bf2003e0baa93f6ad62](https://goerli.etherscan.io/token/0xa82f21f033c1a30e8c729bf2003e0baa93f6ad62)
+[Contract Address](https://goerli.etherscan.io/address/0xa82F21F033c1A30e8c729Bf2003e0BaA93f6aD62)
+
+[USTT Token Address](https://goerli.etherscan.io/token/0xa82f21f033c1a30e8c729bf2003e0baa93f6ad62)
 
